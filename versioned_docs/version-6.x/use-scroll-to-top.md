@@ -67,3 +67,5 @@ function Albums() {
 }
 
 ```
+
+If the offset value is negative, make sure to add `scrollToOverflowEnabled` prop to your ScrollView or FlatList.
